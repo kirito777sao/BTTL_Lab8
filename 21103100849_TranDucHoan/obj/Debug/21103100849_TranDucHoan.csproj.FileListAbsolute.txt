@@ -1,0 +1,16 @@
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\bin\Debug\21103100849_TranDucHoan.exe.config
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\bin\Debug\21103100849_TranDucHoan.exe
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\bin\Debug\21103100849_TranDucHoan.pdb
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\obj\Debug\21103100849_TranDucHoan.csproj.AssemblyReference.cache
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\obj\Debug\_21103100849_TranDucHoan.ChiTietBanHang_0849.resources
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\obj\Debug\_21103100849_TranDucHoan.Form1.resources
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\obj\Debug\_21103100849_TranDucHoan.Properties.Resources.resources
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\obj\Debug\_21103100849_TranDucHoan.ThongTinMH_0849.resources
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\obj\Debug\_21103100849_TranDucHoan.TimKiemKH_0849.resources
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\obj\Debug\_21103100849_TranDucHoan.TimKiemMH_0849.resources
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\obj\Debug\_21103100849_TranDucHoan.TimKiemTTBH_0849.resources
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\obj\Debug\21103100849_TranDucHoan.csproj.GenerateResource.cache
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\obj\Debug\21103100849_TranDucHoan.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\obj\Debug\21103100849_TranDucHoan.exe
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\obj\Debug\21103100849_TranDucHoan.pdb
+D:\Tài liệu\Dot NET\21103100849_TranDucHoan\obj\Debug\_21103100849_TranDucHoan.ThongTinKH_0849.resources
